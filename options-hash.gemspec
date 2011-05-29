@@ -23,7 +23,8 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
-    "lib/options-hash.rb"
+    "lib/options-hash.rb",
+    "options-hash.gemspec"
   ]
   s.homepage = %q{https://github.com/martinkozak/options-hash}
   s.licenses = [%q{MIT}]
